@@ -15,6 +15,7 @@ Accountant with 10 years of experience in shared service centers in Mexico, the 
 
 ## Experience
 - **Accountant Sr. Controller** — C3ntro Telecom Shared Service Center (2024–present)
+  - NetSuite (Oracle)
 - **Senior Accounts Payable Controller** — Daimler Truck North America (2024)
 - **SAP Analyst-Warehouse** — Dresen Petrotec Industries (2023)
 - SAP implementation projects in Peru & Colombia
